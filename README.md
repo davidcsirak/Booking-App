@@ -3,7 +3,9 @@
 Usage:
   - Clone this repository
   - Select "api" folder
-  - Install nodemon and mongoDB
+  - $ npm i
+  - $ npm i mongodb cors
+  - $ npm install -g nodemon
   - $ nodemon npm start
   - Select "app" folder
   -  $ npm i
